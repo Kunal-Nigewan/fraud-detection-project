@@ -96,4 +96,8 @@ _(Exact numbers depend on your notebook, you can add them later.)_
 
 ## 7. 🚀 How to Run the Project  
 
-1. Clone the repository:  
+1. Clone the repository:
+2. Install dependencies:
+3. Open the Jupyter notebook:
+4. Run all cells in order.
+
